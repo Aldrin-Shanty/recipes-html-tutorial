@@ -12,7 +12,6 @@ Welcome to the Recipe HTML Site repository! This project is designed to improve 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
