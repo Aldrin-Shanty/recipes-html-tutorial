@@ -40,11 +40,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recipe-html-site.git
+   git clone https://github.com/Aldrin-Shanty/recipes-html-tutorial.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd recipe-html-site
+   cd recipe-html-tutorial
    ```
 3. Open `index.html` in your preferred browser.
 
