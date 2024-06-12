@@ -16,7 +16,7 @@ Welcome to the Recipe HTML Site repository! This project is designed to improve 
 
 ## Demo
 
-Check out the live demo of the site [here](#).
+Check out the live demo of the site [here](https://github.com/Aldrin-Shanty/recipes-html-tutorial.git).
 
 ## Features
 
