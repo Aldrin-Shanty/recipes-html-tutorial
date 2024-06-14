@@ -2,7 +2,7 @@
 
 # Recipe HTML Site
 
-Welcome to the Recipe HTML Site repository! This project is designed to improve my frontend development skills by creating a visually appealing and user-friendly website for displaying various recipes. The site is built using HTML, CSS, and JavaScript.
+Welcome to the Recipe HTML Site repository! This project is designed to improve my frontend development skills by creating a visually appealing and user-friendly website for displaying various recipes. The site is built using HTML.
 
 ## Table of Contents
 
@@ -29,10 +29,6 @@ Check out the live demo of the site [here](https://aldrin-shanty.github.io/recip
 ## Technologies Used
 
 - **HTML5**: For the structure of the site
-- **CSS3**: For styling and layout
-- **JavaScript**: For interactivity and dynamic content
-- **Bootstrap**: For responsive design (optional)
-- **Font Awesome**: For icons (optional)
 
 ## Installation
 
